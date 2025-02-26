@@ -1,6 +1,8 @@
 # esp32-h2-supermini-kicad
 This project focuses on the comprehensive development of a KiCad library component for the ESP32-H2-Supermini module. The goal is to provide accurate and high-quality resources for designers using KiCad to integrate this powerful wireless microcontroller into their projects.
 
+![ESP32-H2 Supermini Module Image](https://github.com/manupawickramasinghe/esp32-h2-supermini-kicad/blob/main/resources/0d1f210029fd1da4822f4db8de7f80b6fb9caa32_2_572x500.jpeg)
+
 **ESP32-H2 Supermini Description**
 
 The ESP32-H2 Supermini is a compact, low-power wireless module powered by the Espressif ESP32-H2 System-on-Chip (SoC). Designed for space-constrained IoT applications, it integrates a 32-bit RISC-V core, Bluetooth 5.2 Low Energy (BLE), and IEEE 802.15.4, supporting Thread, Zigbee, and Matter protocols. This module is perfect for smart home devices, wearables, and other applications requiring reliable, energy-efficient wireless connectivity. This KiCad library provides accurate symbols, footprints, and 3D models to simplify integration into your projects.
@@ -29,6 +31,10 @@ The ESP32-H2 Supermini is a compact, low-power wireless module powered by the Es
    * In the Schematic Editor, click "Add Symbol" and search for the ESP32-H2 Supermini symbol.
    * In the PCB Editor, click "Add Footprint" and select the corresponding footprint.
 
+![KiCad Symbol Editor Screenshot](https://github.com/manupawickramasinghe/esp32-h2-supermini-kicad/blob/main/resources/Screenshot%20from%202025-02-26%2022-04-52.png)
+
+![Zigbee Universal Sensor in KiCad](https://github.com/manupawickramasinghe/esp32-h2-supermini-kicad/blob/main/resources/zigbee-universal-sensor-kicad.png)
+
 **ESP32-H2 Supermini Pinout Explanation**
 
 **Important Note:** *Always refer to the official ESP32-H2 Supermini module datasheet for the precise pinout of your specific board variant.*
@@ -54,6 +60,8 @@ The ESP32-H2 Supermini is a compact, low-power wireless module powered by the Es
   * `JTAG` (If applicable): Pins for debugging and programming the chip.
 
 **Pinout Table (Example - Adapt to your specific board):**
+
+![ESP32-H2 Module Image](https://github.com/manupawickramasinghe/esp32-h2-supermini-kicad/blob/main/resources/S6361424269644a4ab50544fc9f406a78m.jpg_960x960q75.jpg_.avif)
 
 | Pin Name | Function(s) | Notes |
 | :------- | :---------- | :---- |
